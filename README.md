@@ -6,4 +6,16 @@ Homepage
 
 ![](images/homepage.JPG)
 
-The left column is a list people who are currently on duty, while the right column is a list of people who are on vacation/leave.
+The left column is a list people who are currently on duty, while the right column is a list of people who are on vacation/leave. Users who are not logged in are not allowed to checkout, change status or edit messages of the people on duty.
+
+Maps and Contacts Page (logged in users)
+
+![](images/logged%20in.png)
+
+This is the maps and contacts page for users who are logged in, they are allowed to edit, delete and view personal and alternate phone numbers. 
+
+Maps and Contacts Page (non users)
+
+![](images/logged%20out.JPG)
+
+This is the maps and contacts page for non users, non users cannot edit/delete anything on the page or view personal and alternate numbers for crew workers.
