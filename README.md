@@ -16,6 +16,6 @@ This is the maps and contacts page for users who are logged in, they are allowed
 
 Maps and Contacts Page (non users)
 
-![](images/logged%20out.JPG)
+![](images/logged%20out.jpg)
 
 This is the maps and contacts page for non users, non users cannot edit/delete anything on the page or view personal and alternate numbers for crew workers.
