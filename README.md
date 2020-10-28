@@ -12,7 +12,7 @@ Maps and Contacts Page (logged in users)
 
 ![](images/logged%20in.png)
 
-This is the maps and contacts page for users who are logged in, they are allowed to edit, delete and view personal and alternate phone numbers. 
+This is the maps and contacts page for users who are logged in, they are allowed to edit, delete and view personal and alternate phone numbers. A filled in triangle icon means that information was recently changed for that row. A filled triangle will become unfilled after 14 days of no change or update.
 
 Maps and Contacts Page (non users)
 
