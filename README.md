@@ -1,4 +1,4 @@
-# Dispatcher Summer Project
+# Dispatcher Project
 
 I will be creating a website for Dispatchers to display crew information connected through a database as well as added functionality to display which crews are on duty while keeping records of crews on leave. 
 
